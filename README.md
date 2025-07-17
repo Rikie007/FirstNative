@@ -1,3 +1,13 @@
+So Basicall This was my first ReactNative App this onlt says HELLO WORLD.
+If you read carefull i am writing it was...
+because basically when i had my first year summer vacation i learnt JS i knew HTML CSS little bit i wanna inprove. One Of My very good and close friend introduced me to js and specially tutorial from Hitesh Chaudhray back then point of time the friend helped me lot when i was struggling in js. I learnt js basics and made some basic projects which all learner make but what after that i am coming from collage where we have cp culture very few students do devlopment there are but i am not in contect with them so basically it was my summer vac ending as far as i rememeber 20 -25 day left and i had not intrest in web dev so i piced app dev then my great and good friend suggested me that why dont i try react-native i start learing i leant till my vac open and then afer contuing collage i stoped in that fiels and now its year later i am continuing i dont know how far i can do but i pray and will try to do my best THANK YOU!
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
